@@ -1,4 +1,4 @@
-# docker_node
+# docker node_npm_bower
 
 Builds on docker_node which runs a script mounted on src.
 This docker is for running production code from dist folder:
