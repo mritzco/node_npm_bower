@@ -2,7 +2,6 @@ FROM itzco/docker_node
 
 MAINTAINER itzco <mritzco@gmail.com>
 
-COPY dist /src
 WORKDIR /src
 
 RUN /bin/bash -c ' source /root/.nvm/nvm.sh \
